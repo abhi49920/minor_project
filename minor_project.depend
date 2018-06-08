@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524169416 source:c:\users\dell\desktop\gr\minor_project\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+
